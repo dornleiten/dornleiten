@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning methods of digital forensics
 
 
-## Professional Experience
+### Professional Experience
 - Strategic Project Lead | [refurbed](https://www.refurbed.com/)
 - Visiting Associate | [BCG](https://www.bcg.com/)
 - Intern Consultant | [McKinsey](https://www.mckinsey.com/)
 - Intern Consultant | [Oliver Wyman](https://www.oliverwyman.com/index.html)
 
-## Education
+### Education
 - MSc Applied Social Data Science | London School of Economics
 - BSc Philosophy, Politics and Economics | University College London
 
