@@ -1,7 +1,6 @@
 ### About me
 
 - 🔭 I’m currently working on topics related to online debate, news media, and network analysis
-- 🌱 I’m currently learning methods of digital forensics
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/flora-b-550010130/)
 
 ### Professional Experience
