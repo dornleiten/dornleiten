@@ -1,6 +1,8 @@
 ### About me
 
-- 🔭 I’m currently working on topics related to online debate, news media, and network analysis
+- 🔭 I’m interested in topics related to online debate, news media, and network analysis
+- 🥁 MSc Thesis **Measuring the comment gap: A machine learning and quantitative text analysis approach to studying news media user comments** 
+- 🌱 I'm currently working on analysing a network of decisions of the European Court of Human Rights
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/flora-b-550010130/)
 
 ### Professional Experience
